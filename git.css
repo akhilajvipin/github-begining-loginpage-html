@@ -1,0 +1,109 @@
+*{ margin:0px;
+    padding: 0px;
+    
+}
+
+div img{
+    width: 80px;
+    height: 80px;
+    margin-left: 550px;
+}
+
+ #sign{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 505PX;
+    color: rgb(43, 39, 39);
+ }   
+ #cc{
+    width: 300px;
+    height: 225px;
+    border: 1px solid rgb(219, 215, 215);
+    margin-left: 450px;
+    background-color:azure;
+    border-radius:10px ;
+ }
+ #un{
+    font-size: 16px;
+    margin-left: 30px;  
+ }
+ #box1{
+    width:275px;
+    height: 30px;
+    margin-left:10px ;
+    border: 1.7px solid rgb(219, 215, 215);
+    border-radius: 10px;
+ }
+ #pw{
+    font-size:14Px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 30px;
+ }
+ #fp{
+    color: blue;
+    margin-left: 80px;
+    text-decoration: none;
+ }
+    
+ #box2{border: 1.5px solid rgb(219, 215, 215);
+    height: 30px;
+    width: 280px;
+    border-radius: 10px;
+    margin-left: 10px;
+
+ }
+ #si{ 
+    width: 100px;
+    height:200px ;
+ }
+ #b{
+    height:40px ;
+    width:285px;
+    margin-left:10px ;
+    border-radius: 10px;
+    color: white;
+    background-color:#32a852;
+    border: #32a852; 
+ }
+ #ng{ 
+    width: 285px;
+    height:35px ;
+    border:1px solid rgb(214, 211, 211) ;
+    padding:10px ;
+    margin-left:450px ;
+    border-radius: 10px;
+    margin-top: 10px;
+    
+ }
+ #td{
+text-decoration:none ;
+color: blue;
+ }
+ #terms{
+   text-decoration: none;
+   font-family:'Times New Roman', Times, serif;
+   color: blue;
+   margin-left: 470px;
+   font-size:13px
+ }
+ #pr{ 
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+    font-size:13px
+    
+ }
+ #sec{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    color: blue;
+    font-size:13px
+ }
+ #cg{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(155, 149, 149);
+    font-size:13px ;
+
+ }
+
